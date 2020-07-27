@@ -1,0 +1,81 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.0",
+  "hash": "bbca035ffc3806618e58",
+  "publicPath": "/static/",
+  "outputPath": "/home/crusiris/Projects/react/spaDefensoriaAmbiental/build/static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "spadefensoriaambiental": "spadefensoriaambiental.module.js"
+  },
+  "assets": [
+    {
+      "name": "list.module.js",
+      "size": 48033,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "spadefensoriaambiental.module.js",
+      "size": 5044240,
+      "chunks": [
+        "spadefensoriaambiental"
+      ],
+      "chunkNames": [
+        "spadefensoriaambiental"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "spadefensoriaambiental": {
+      "chunks": [
+        "spadefensoriaambiental"
+      ],
+      "assets": [
+        "spadefensoriaambiental.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "spadefensoriaambiental": {
+      "chunks": [
+        "spadefensoriaambiental"
+      ],
+      "assets": [
+        "spadefensoriaambiental.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
