@@ -2,7 +2,7 @@ const settings = {
   "name": "spadefensoriaambiental",
   "state": {
     "frontity": {
-      "url": "https://test.frontity.org",
+      "url": "https://defensoriaambiental.org",
       "title": "Test Frontity Blog",
       "description": "WordPress installation for Frontity development"
     }
@@ -18,20 +18,28 @@ const settings = {
               "/"
             ],
             [
-              "Nature",
-              "/category/nature/"
+              "Nosotros",
+              "/quienes-somos/"
             ],
             [
-              "Travel",
-              "/category/travel/"
+              "Comunidad",
+              "/comunidades/"
             ],
             [
-              "Japan",
-              "/tag/japan/"
+              "Centro de monitoreo",
+              "/alianzas/"
             ],
             [
-              "About Us",
-              "/about-us/"
+              "Contenidos",
+              "/contenidos/"
+            ],
+            [
+              "Contacto",
+              "/contacto/"
+            ],
+            [
+              "Donar",
+              "/donar/"
             ]
           ],
           "featured": {
@@ -45,7 +53,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "api": "https://test.frontity.org/wp-json"
+          "api": "https://defensoriaambiental.org/wp-json"
         }
       }
     },
